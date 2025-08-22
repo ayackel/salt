@@ -409,7 +409,7 @@ docker==5.0.0
     # via -r requirements/static/ci/common.in
 filelock==3.0.12
     # via virtualenv
-future==0.18.2
+future==1.0.0
     # via
     #   napalm
     #   textfsm

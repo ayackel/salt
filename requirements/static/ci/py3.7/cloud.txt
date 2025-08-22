@@ -406,7 +406,7 @@ filelock==3.0.12
     # via virtualenv
 flaky==3.7.0
     # via -r requirements/pytest.txt
-future==0.18.2
+future==1.0.0
     # via
     #   napalm
     #   textfsm
