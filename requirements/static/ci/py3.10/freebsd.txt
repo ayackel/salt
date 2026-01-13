@@ -396,7 +396,7 @@ docker-pycreds==0.4.0
     # via docker
 docker==3.7.2
     # via -r requirements/static/ci/common.in
-filelock==3.0.12
+filelock==3.20.3
     # via virtualenv
 flaky==3.7.0
     # via -r requirements/pytest.txt
