@@ -403,7 +403,7 @@ docker==5.0.0
     # via -r requirements/static/ci/common.in
 docutils==0.16
     # via sphinx
-filelock==3.0.12
+filelock==3.20.3
     # via virtualenv
 genshi==0.7.5
     # via -r requirements/static/ci/common.in

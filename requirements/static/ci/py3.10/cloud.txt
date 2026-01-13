@@ -396,7 +396,7 @@ dnspython==2.1.0
     #   python-etcd
 docker==5.0.2
     # via -r requirements/static/ci/common.in
-filelock==3.0.12
+filelock==3.20.3
     # via virtualenv
 flaky==3.7.0
     # via -r requirements/pytest.txt
