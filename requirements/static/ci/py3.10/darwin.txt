@@ -375,7 +375,7 @@ contextvars==2.4
     # via -r requirements/base.txt
 croniter==0.3.29 ; sys_platform != "win32"
     # via -r requirements/static/ci/common.in
-cryptography==3.3.2
+cryptography==46.0.5
     # via
     #   -r requirements/darwin.txt
     #   adal
